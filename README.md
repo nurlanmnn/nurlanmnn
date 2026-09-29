@@ -8,7 +8,7 @@ I'm a Computer Science student at the University of Central Florida, graduating 
 
 ## Projects
 
-- **[FlashPlanner]** — A project built for ShellHacks 2026.
+- **FlashPlanner** — A project built for ShellHacks 2026.
 - **PickUp UCF** — An app that helps students find and join pickup sports on campus.
 - **Roomate** — An app for managing shared expenses and everyday tasks with roommates.
 
