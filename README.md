@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nurlan 👋
 
-<!--
-**nurlanmnn/nurlanmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Central Florida, graduating in May 2027. I enjoy building useful software and working on AI tools that solve practical problems.
 
-Here are some ideas to get you started:
+- 💻 Previously worked on the AI Platform team at Brown & Brown
+- 🛠️ I work with Python, JavaScript, TypeScript, React, Node.js, and CI/CD
+- 🌱 Currently interested in software engineering and applied AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[FlashPlanner]** — A project built for ShellHacks 2026.
+- **PickUp UCF** — An app that helps students find and join pickup sports on campus.
+- **Roomate** — An app for managing shared expenses and everyday tasks with roommates.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/nurlan-mammadli/) · [Portfolio](https://nurlanmammadli.vercel.app/)
