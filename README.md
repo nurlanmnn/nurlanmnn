@@ -4,11 +4,11 @@ I'm a Computer Science student at the University of Central Florida, graduating 
 
 - 💻 Previously worked on the AI Platform team at Brown & Brown
 - 🛠️ I work with Python, JavaScript, TypeScript, React, Node.js, and CI/CD
-- 🌱 Currently interested in software engineering and applied AI
+- 🌱 Currently interested in software engineering and applied AI/ML
 
 ## Projects
 
-- **FlashPlanner** — A project built for ShellHacks 2026.
+- **FlashPlanner** — An AI trip planner that builds timed city itineraries around your interests, budget, opening hours, weather, and travel times.(ShellHacks 2026)
 - **PickUp UCF** — An app that helps students find and join pickup sports on campus.
 - **Roomate** — An app for managing shared expenses and everyday tasks with roommates.
 
