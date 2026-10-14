@@ -9,6 +9,7 @@ I'm a Computer Science student at the University of Central Florida, graduating 
 ## Projects
 
 - **FlashPlanner** — An AI trip planner that builds timed city itineraries around your interests, budget, opening hours, weather, and travel times.(ShellHacks 2026)
+- **Lenny Roasts** - AI hackathon simulator with a 3D UCF campus, pitch feedback, and rankings against 106 simulated competitors. (Knight Hacks IX)
 - **PickUp UCF** — An app that helps students find and join pickup sports on campus.
 - **Roomate** — An app for managing shared expenses and everyday tasks with roommates.
 
