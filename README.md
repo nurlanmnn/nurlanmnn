@@ -24,8 +24,8 @@ Coach's note  Will build the app instead of asking who's free.
 
 | Project | The play | Played at |
 | --- | --- | --- |
-| **FlashPlanner** | AI trip planner that builds timed city itineraries around your interests, budget, opening hours, weather, and travel times | ShellHacks 2026 |
-| **Lenny Roasts** | AI hackathon simulator with a 3D UCF campus, pitch feedback, and rankings against 106 simulated competitors | Knight Hacks IX |
+| **[FlashPlanner](https://devpost.com/software/flashplanner)** | AI trip planner that builds timed city itineraries around your interests, budget, opening hours, weather, and travel times | ShellHacks 2026 |
+| **[Lenny Roasts](https://devpost.com/software/lenny-roasts)** | AI hackathon simulator with a 3D UCF campus, pitch feedback, and rankings against 106 simulated competitors | Knight Hacks IX |
 | **[Roomate](https://github.com/nurlanmnn/roomate)** | Shared expenses and everyday tasks for people who live together | Home games |
 
 ## 🤝 Pick me for your team
